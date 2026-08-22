@@ -1,0 +1,19 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The contents of the `corpus/` directory — the incident records, their summaries,
+classifications and scenario definitions — are licensed under CC BY 4.0.
+
+You are free to share and adapt this material for any purpose, including commercially,
+provided you give appropriate credit and indicate if changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution:
+    agent-incident-corpus — https://github.com/ajinb/agent-incident-corpus
+
+The source code in `src/`, `tests/` and `examples/` is licensed separately under
+Apache 2.0; see LICENSE.
+
+NOTE ON SOURCES: every record links to third-party reporting. Those linked works remain
+under their own licences and are not redistributed here. Corpus summaries are original
+prose written for this project, not excerpts.
