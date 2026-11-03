@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "agent-incident-corpus"
+message: "If you use this software, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Baby
+    given-names: Ajin
+    orcid: "https://orcid.org/0009-0007-6190-9516"
+repository-code: "https://github.com/ajinb/agent-incident-corpus"
+url: "https://cloudandsre.com"
+abstract: "Public AI-agent production failures as a versioned, replayable regression corpus \u2014 each with a runnable reproduction and a CI gate that fails when your guardrails stop containing them. Code Apache 2.0, data CC BY 4.0."
+license: Apache-2.0
+version: "0.1.0"
+date-released: "2026-11-02"
+keywords:
+  - ai-agents
+  - incident-corpus
+  - guardrails
+  - regression-testing
+  - llm-safety
