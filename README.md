@@ -176,6 +176,23 @@ your configuration. Two design notes worth arguing with:
   allowlist is workload-specific, and shipping a permissive default would let scope scenarios
   pass for the wrong reason.
 
+## Paper
+
+This repository is the companion code for the preprint **[From Incident to Failing Build: Incident-Derived Regression Testing for AI-Agent Guardrails](https://cloudandsre.com/research/incident-derived-regression-testing/)**
+(Ajin Baby, September 2026, not peer reviewed). Full text: [PDF](https://ajinb.github.io/research/incident-derived-regression-testing/incident-derived-regression-testing.pdf) ·
+[paper page](https://ajinb.github.io/research/incident-derived-regression-testing/) · [all papers](https://ajinb.github.io/research/).
+
+```bibtex
+@techreport{baby2026incident,
+  title       = {From Incident to Failing Build: Incident-Derived Regression Testing for AI-Agent Guardrails},
+  author      = {Ajin Baby},
+  year        = {2026},
+  institution = {cloudandsre.com},
+  type        = {Preprint},
+  url         = {https://cloudandsre.com/research/incident-derived-regression-testing/}
+}
+```
+
 ## Licensing
 
 Code (`src/`, `tests/`, `examples/`) is **Apache 2.0**. The corpus (`corpus/`) is
